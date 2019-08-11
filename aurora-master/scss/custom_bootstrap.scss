@@ -1,0 +1,8 @@
+//override default colors
+$theme-colors: (
+    "primary": #2abdb0,
+    "secondary": #1f1f1f
+);
+
+// import bootstrap
+@import "../bootstrap/scss/bootstrap";

@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+    font-size: 1.1rem;
+}
+
+.btn-outline-primary:hover {
+
+    color: #fff;
+    background-color: #00c492;
+    border-color: #00c492;
+
+}
+
+.header, .slider {
+    border-bottom: 2px solid rgb(189, 188, 188);
+}
+
+.navbar {
+    padding: 0;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 0;
+}
+
+.nav-link:active {
+    font-weight: 600;
+    border-bottom: 0.2rem solid #00c492;
+}
+
+.navbar-brand {
+    padding: 0;
+    margin: 0;
+    font-size: 1.6rem;
+    b {
+        font-weight: 600;
+    }
+}
+
+.container {
+    padding: 0;
+    max-width: 90%;
+}
+
+.btn {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+.angle-up {
+    border-bottom-right-radius: 0rem;
+    border-bottom-left-radius: 0rem;
+    margin-left: 80%;
+}
+
+
+
+.footer {
+    background-color: #181a1e;
+}
+
+.nav-item.social {
+    font-size: 2rem;
+}
+
